@@ -1,0 +1,43 @@
+{"message":"listening on 4000","level":"info"}
+{"message":"db crashed","level":"info"}
+{"message":"listening on 4000","level":"info"}
+{"ok":0,"code":8000,"codeName":"AtlasError","name":"MongoError","level":"info"}
+{"message":"listening on 4000","level":"info"}
+{"ok":0,"code":8000,"codeName":"AtlasError","name":"MongoError","level":"info"}
+{"message":"listening on 4000","level":"info"}
+{"ok":0,"code":8000,"codeName":"AtlasError","name":"MongoError","level":"info"}
+{"message":"listening on 4000","level":"info"}
+{"ok":0,"code":8000,"codeName":"AtlasError","name":"MongoError","level":"info"}
+{"message":"listening on 4000","level":"info"}
+{"ok":0,"code":8000,"codeName":"AtlasError","name":"MongoError","level":"info"}
+{"message":"listening on 5000","level":"info"}
+{"ok":0,"code":8000,"codeName":"AtlasError","name":"MongoError","level":"info"}
+{"message":"listening on 5000","level":"info"}
+{"message":"connected to mongo db","level":"info"}
+{"message":"listening on 5000","level":"info"}
+{"message":"connected to mongo db","level":"info"}
+{"message":"listening on 5000","level":"info"}
+{"message":"connected to mongo db","level":"info"}
+{"message":"email is not defined","level":"error"}
+{"message":"email is not defined","level":"error"}
+{"message":"email is not defined","level":"error"}
+{"message":"email is not defined","level":"error"}
+{"message":"listening on 5000","level":"info"}
+{"message":"connected to mongo db","level":"info"}
+{"message":"phoneNumber is not defined","level":"error"}
+{"message":"listening on 5000","level":"info"}
+{"message":"connected to mongo db","level":"info"}
+{"message":"listening on 5000","level":"info"}
+{"errno":"ESERVFAIL","code":"ESERVFAIL","syscall":"queryTxt","hostname":"employee-management-sys.ymapi.mongodb.net","level":"info"}
+{"message":"listening on 5000","level":"info"}
+{"message":"connected to mongo db","level":"info"}
+{"message":"listening on 5000","level":"info"}
+{"message":"connected to mongo db","level":"info"}
+{"message":"listening on 5000","level":"info"}
+{"message":"connected to mongo db","level":"info"}
+{"message":"listening on 5000","level":"info"}
+{"message":"connected to mongo db","level":"info"}
+{"message":"Cannot access 'employee' before initialization","level":"error"}
+{"message":"Cannot access 'employee' before initialization","level":"error"}
+{"message":"listening on 5000","level":"info"}
+{"message":"connected to mongo db","level":"info"}
