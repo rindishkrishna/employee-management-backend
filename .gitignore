@@ -2,4 +2,3 @@ node_modules
 .idea
 Error.log
 uncaughtExceptions.log
-.env
