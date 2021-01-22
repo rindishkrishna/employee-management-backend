@@ -41,3 +41,5 @@
 {"message":"Cannot access 'employee' before initialization","level":"error"}
 {"message":"listening on 5000","level":"info"}
 {"message":"connected to mongo db","level":"info"}
+{"message":"listening on 5000","level":"info"}
+{"message":"connected to mongo db","level":"info"}
