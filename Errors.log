@@ -51,3 +51,6 @@
 {"message":"connected to mongo db","level":"info"}
 {"message":"listening on 5000","level":"info"}
 {"message":"connected to mongo db","level":"info"}
+{"message":"listening on 5000","level":"info"}
+{"message":"connected to mongo db","level":"info"}
+{"message":"employee is not defined","level":"error"}

@@ -44,7 +44,7 @@ Router.post('/addemployee',[
     let user = await Employee.findOne({"email":req.body.email});
     if(user) return res.status(400).send([{msg:"Already have account"}]);
 
-    user= new employee({
+    user= new Employee({
         email:req.body.email,
         name:req.body.name,
         phoneNumber:req.body.phoneNumber,
