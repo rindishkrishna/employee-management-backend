@@ -51,7 +51,8 @@ Router.post('/addemployee',[
         DOB:req.body.DOB,
         address:req.body.address,
         role:req.body.role,
-        experience:req.body.experience
+        experience:req.body.experience,
+        salary:req.body.salary
     });
     
     await user.save();
